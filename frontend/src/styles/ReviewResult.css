@@ -1,0 +1,26 @@
+.review-card {
+  background: white;
+  padding: 24px;
+  border-radius: 12px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+}
+
+.score-card {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.score-value {
+  font-size: 48px;
+  font-weight: bold;
+}
+
+.section {
+  margin-top: 24px;
+}
+
+.summary-box {
+  background: #f5f7fb;
+  padding: 16px;
+  border-radius: 8px;
+}

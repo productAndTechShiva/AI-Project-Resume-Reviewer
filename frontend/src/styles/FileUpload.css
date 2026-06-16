@@ -1,0 +1,19 @@
+.upload-card {
+  background: white;
+  padding: 24px;
+  border-radius: 12px;
+  margin-bottom: 24px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.08);
+}
+
+.upload-button {
+  margin-top: 12px;
+  padding: 10px 18px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.upload-button:disabled {
+  cursor: not-allowed;
+}
