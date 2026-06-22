@@ -34,7 +34,9 @@ Many job seekers struggle to evaluate the quality of their resumes before applyi
 * Generate an enhanced professional summary tailored to the candidate's profile.
 
 ### Screenshot
-<img width="4141" height="2245" alt="combined_img" src="https://github.com/user-attachments/assets/675a93fc-40b0-4add-bbe8-d4d0a0174ae0" />
+<img width="2055" height="2198" alt="combined_img" src="https://github.com/user-attachments/assets/233f8cf5-93e4-486c-af5b-0d054caa1ab9" />
+
+
 
 # Functional Requirements
 
