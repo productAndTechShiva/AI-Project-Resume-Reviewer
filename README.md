@@ -71,8 +71,12 @@ The solution aims to:
 
 # Key Features
 
-## Resume Upload
+## Screenshots
 
+<img width="4141" height="2245" alt="combined_img" src="https://github.com/user-attachments/assets/675a93fc-40b0-4add-bbe8-d4d0a0174ae0" />
+
+
+## Resume Upload
 Users can upload resumes in:
 
 * PDF format
